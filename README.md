@@ -16,3 +16,4 @@
 3. [Микросервисы: подходы](11-microservices-03-approaches.md).
 
 4. [Микросервисы: масштабирование](11-microservices-04-scaling.md).
+
